@@ -1,2 +1,2 @@
-# network-packet-analyser
-Minor project I
+# Network Packet Analyser
+
